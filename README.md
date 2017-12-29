@@ -1,1 +1,1 @@
-# jenkins
+A collection of Jenkins pipelines
